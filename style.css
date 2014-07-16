@@ -1,0 +1,18 @@
+﻿.modal_bg{
+    position:absolute;
+    display:none;
+    z-index:1000;
+    left:0;
+    top:0;
+    background-color:#A8A8A8;
+  }
+  .modal_window{
+    position:absolute;
+    display:none;
+    left:50%;
+    z-index:1100;
+    width:600px;
+    margin-left:-300px;
+    height:300px;
+    background:#ffffff;
+  }
